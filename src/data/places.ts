@@ -17,12 +17,12 @@ export const places: Place[] = [
     },
     region: 'cusco',
     category: 'arqueologico',
-    imageUrl: 'https://images.pexels.com/photos/259280/pexels-photo-259280.jpeg?auto=compress&cs=tinysrgb&w=1200',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/c/ca/Machu_Picchu%2C_Peru_%282018%29.jpg',
     images: [
-      'https://images.pexels.com/photos/259280/pexels-photo-259280.jpeg?auto=compress&cs=tinysrgb&w=1200',
-      'https://images.pexels.com/photos/2356045/pexels-photo-2356045.jpeg?auto=compress&cs=tinysrgb&w=1200',
-      'https://images.pexels.com/photos/2356037/pexels-photo-2356037.jpeg?auto=compress&cs=tinysrgb&w=1200',
-      'https://images.pexels.com/photos/1004584/pexels-photo-1004584.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      'https://cuscoperu.b-cdn.net/wp-content/uploads/2023/09/Mirador-de-machu-Picchu-vista-panoramica.webp',
+      'https://caminoincamachupicchu.org/cmingutd/wp-content/uploads/2021/06/machu-picchu-llama.jpg',
+      'https://www.peruforless.com/_next/image?url=https%3A%2F%2Fwww.peruforless.com%2Fimages%2Fmachu-picchu-ruins.jpg&w=3840&q=75',
+      'https://andinoperu.b-cdn.net/wp-content/uploads/2024/03/razones-para-visitar-machu-picchu.webp'
     ],
     location: {
       lat: -13.1631,
@@ -80,12 +80,11 @@ export const places: Place[] = [
     },
     region: 'ica',
     category: 'arqueologico',
-    imageUrl: 'https://images.pexels.com/photos/12935080/pexels-photo-12935080.jpeg?auto=compress&cs=tinysrgb&w=1200',
+    imageUrl: 'https://t3.ftcdn.net/jpg/04/53/93/68/360_F_453936876_drvJw37greccONxwLTIvdRlpyHuXQ7s3.jpg',
     images: [
-      'https://images.pexels.com/photos/12935080/pexels-photo-12935080.jpeg?auto=compress&cs=tinysrgb&w=1200',
-      'https://images.pexels.com/photos/5490778/pexels-photo-5490778.jpeg?auto=compress&cs=tinysrgb&w=1200',
-      'https://images.pexels.com/photos/5490779/pexels-photo-5490779.jpeg?auto=compress&cs=tinysrgb&w=1200',
-      'https://images.pexels.com/photos/12935081/pexels-photo-12935081.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      'https://www.condorxtreme.com/wp-content/uploads/2023/08/optimized_LINEAS_DE_NASCA_6.jpg',
+      'https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/131B7/production/_109736287_p11_bhumanoid_processed.jpg.webp',
+      'https://img.travesiasdigital.com/cdn-cgi/image/quality=90,format=auto,onerror=redirect/2019/12/lineas-de-nazca-y-la-carretera-panamericana_fd84c82b-e1575396350200.jpg'
     ],
     location: {
       lat: -14.7390,
@@ -143,13 +142,13 @@ export const places: Place[] = [
     },
     region: 'ancash',
     category: 'natural',
-    imageUrl: 'https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1200',
+    imageUrl: 'https://huaraztreks.com/wp-content/uploads/2016/05/peru-huayhuash-trek.jpg',
     images: [
-      'https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1200',
-      'https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=1200',
-      'https://images.pexels.com/photos/1366957/pexels-photo-1366957.jpeg?auto=compress&cs=tinysrgb&w=1200',
-      'https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&w=1200',
-      'https://images.pexels.com/photos/1287145/pexels-photo-1287145.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      'https://www.peruvianandes.com/wp-content/uploads/2017/06/Cordillera-huayhuash-trek.jpg',
+      'https://www.huarazadventures.com/images/trekking-cordillera-huayhuash1.jpg',
+      'https://www.huayhuash.com/images/going_down_cutatambo.jpg',
+      'https://huaraztreks.com/wp-content/uploads/2016/05/peru-huayhuash-trek.jpg',
+      'https://mochileaperu.com/wp-content/uploads/2019/07/5741176684_f1a31b432f_b.jpg'
     ],
     location: {
       lat: -10.2500,
